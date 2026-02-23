@@ -1,4 +1,4 @@
-## v1.9.0 (UNRELEASED)
+## v1.9.0 (2026-02-23)
 
 NEW FEATURES:
 - Add configuration for flat files ([\#79](https://github.com/PowerDNS/pdns-ansible/pull/79), @sorrowless)
