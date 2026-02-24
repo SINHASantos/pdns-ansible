@@ -1,4 +1,4 @@
-## v1.10.0 (Unreleased)
+## v1.10.0 (2026-02-24)
 
 NEW FEATURES:
 - Add role-level package state controls for PowerDNS, debug symbols, backend packages, and backend dependency packages:
